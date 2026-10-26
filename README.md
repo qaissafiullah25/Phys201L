@@ -26,7 +26,7 @@ Editable and printable versions are available in the [`course_documents`](course
 | 2 | Air track I: Kinematics | Sep 7 and Sep 14 | Sep 14 | Completed |
 | 3 | Projectile motion | Sep 21 and Sep 28 | Sep 28 | Completed |
 | 4 | Air track II: Newton's second law | Oct 5 and Oct 19 | Oct 19 | **Released** |
-| 5 | Air track III: Conservation of energy | Oct 26 and Nov 2 | Nov 2 | Coming later |
+| 5 | Air track III: Conservation of energy | Oct 26 and Nov 2 | Nov 2 | **Released** |
 | 6 | Collisions in two dimensions | Nov 9 and Nov 16 | Nov 16 | Coming later |
 | 7 | Moment of inertia | Nov 23 and Nov 30 | Nov 30 | Coming later |
 
@@ -34,7 +34,7 @@ There is no laboratory meeting on October 12 because of fall recess. Each new la
 
 ### Current laboratory
 
-Before beginning Lab 4, the repository manager must use **Sync fork → Update branch**. Then open [`Lab04_Air_Track_Newtons_Second_Law.ipynb`](labs/Lab04_Air_Track_Newtons_Second_Law/Lab04_Air_Track_Newtons_Second_Law.ipynb) from the **team fork**. The notebook initially runs with representative two-photogate measurements. Replace every example row and instrument uncertainty with the team's own measurements while preserving all raw trials.
+Before beginning Lab 5, the repository manager must use **Sync fork → Update branch**. Then open [`Lab05_Air_Track_Conservation_of_Energy.ipynb`](labs/Lab05_Air_Track_Conservation_of_Energy/Lab05_Air_Track_Conservation_of_Energy.ipynb) from the **team fork**. The notebook initially runs with clearly labeled example measurements. Replace all spring-calibration readings, four gravity configurations, at least two spring configurations, and instrument uncertainties with the team's own measurements. Preserve every raw trial, run each configuration at the bench, and complete the checkpoints and written report. The notebook is due **November 2 at 8:45 p.m.**
 
 ## Before the first lab
 
